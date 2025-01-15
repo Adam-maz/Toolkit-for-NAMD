@@ -37,7 +37,7 @@ A Python notebook designed to:
 #### Usage:
 1. Open the notebook.
 2. Run all cells.
-3. In cell number 3 (using the `input()` function), provide the path to the directory containing the topology and trajectory files of the molecule being analyzed.
-
+3. In cell number 3, provide the path to the directory containing the topology and trajectory files of the molecule being analyzed.
+4. In cell number 4, provide number of expected clusters.
 ---
 
