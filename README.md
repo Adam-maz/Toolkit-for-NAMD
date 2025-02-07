@@ -1,6 +1,6 @@
 # **Description**
 
-Molecular Dynamics (MD) is a powerful technique to predict the time-dependent behavior of various molecular systems. Based on Newton's equations of motion, MD simulates atoms' acceleration and movement direction to predict their positions one timestep further (**1 fs** – **2 fs**) <sup>[1]</sup>. Due to this aspect, MD can be highly computationally intensive and can generate a significant number of conformational states for analysis. 
+Molecular Dynamics (MD) is a powerful technique to predict the time-dependent behavior of various molecular systems. Based on Newton's equations of motion, MD simulates atoms' acceleration and movement direction to predict their positions one timestep further (1 fs – 2 fs) <sup>[1]</sup>. Due to this aspect, MD can be highly computationally intensive and can generate a significant number of conformational states for analysis. 
 
 <p align="center">
   <img src="pimavanserin_5ht2a.gif" width="500"><br><br>
