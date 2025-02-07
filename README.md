@@ -1,11 +1,11 @@
 # **Description**
 
 Molecular Dynamics (MD) is a powerful technique to predict the time-dependent behavior of various molecular systems. Based on Newton's equations of motion, MD simulates atoms' acceleration and movement direction to predict their positions one timestep further (1 fs – 2 fs) <sup>[1]</sup>. Due to this aspect, MD can be highly computationally intensive and can generate a significant number of conformational states for analysis. 
-To address these challenges, I developed a toolkit compatible with **NAMD** <sup>[5]</sup>, an open-source suite for performing MD simulations. 
+To address these challenges, I developed a toolkit compatible with **NAMD** <sup>[2]</sup>, an open-source suite for performing MD simulations. 
 
 <p align="center">
   <img src="pimavanserin_5ht2a.gif" width="500"><br><br>
-  <span style="font-size: 4px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor (<strong>PDB:8ZMG</strong>). Complex was prepared using (<strong>CHARMM-GUI</strong> <sup>[2]</sup>. Configuration of simulation box was adapted from Ramírez-Anguita, Juan Manuel, et al. <sup>[3]</sup>. VMD <sup>[4]</sup> was used to visualize the L-R complex</span>
+  <span style="font-size: 4px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor (<strong>PDB:8ZMG</strong>). Complex was prepared using (<strong>CHARMM-GUI</strong> <sup>[3]</sup>. Configuration of simulation box was adapted from Ramírez-Anguita, Juan Manuel, et al. <sup>[4]</sup>. VMD <sup>[5]</sup> was used to visualize the L-R complex</span>
 </p>
 
 <br><br>
@@ -49,8 +49,9 @@ A Python notebook designed to:
 
 # **References**
 1. Graham Patrick, "An Introduction to Medicinal Chemistry"
-2. https://www.charmm-gui.org/
-3. Ramírez-Anguita, Juan Manuel, et al. "Membrane Cholesterol Effect on the 5-HT2A Receptor: Insights into the Lipid-Induced Modulation of an Antipsychotic Drug Target." *Bioorganic & Medicinal Chemistry*, vol. 28, no. 10, 2021, pp. 1234-1245. DOI: 10.1002/bab.1608.
-4. https://www.ks.uiuc.edu/Research/vmd/
-5. https://www.ks.uiuc.edu/Research/namd/
+2. https://www.ks.uiuc.edu/Research/namd/
+3. https://www.charmm-gui.org/
+4. Ramírez-Anguita, Juan Manuel, et al. "Membrane Cholesterol Effect on the 5-HT2A Receptor: Insights into the Lipid-Induced Modulation of an Antipsychotic Drug Target." *Bioorganic & Medicinal Chemistry*, vol. 28, no. 10, 2021, pp. 1234-1245. DOI: 10.1002/bab.1608.
+5. https://www.ks.uiuc.edu/Research/vmd/
+
 
