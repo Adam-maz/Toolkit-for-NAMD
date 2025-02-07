@@ -1,15 +1,15 @@
 # **Description**
 
-Molecular Dynamics (MD) is a powerful technique to predict the time-dependent behavior of various molecular systems. Based on Newton's equations of motion, MD simulates atoms' acceleration and movement direction to predict their positions one timestep further (**1 fs** – **2 fs**) [1]. Due to this aspect, MD can be highly computationally intensive and can generate a significant number of conformational states for analysis. 
+Molecular Dynamics (MD) is a powerful technique to predict the time-dependent behavior of various molecular systems. Based on Newton's equations of motion, MD simulates atoms' acceleration and movement direction to predict their positions one timestep further (**1 fs** – **2 fs**) <sup>[1]</sup>. Due to this aspect, MD can be highly computationally intensive and can generate a significant number of conformational states for analysis. 
 
 <p align="center">
   <img src="pimavanserin_5ht2a.gif" width="500"><br><br>
-  <span style="font-size: 4px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor (PDB:8ZMG). Complex was prepared using CHARMM-GUI [2]. Configuration of simulation box was adapted from Ramírez-Anguita, Juan Manuel, et al. [3]. VMD [4] was used to visualize the L-R complex</span>
+  <span style="font-size: 4px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor (**PDB:8ZMG**). Complex was prepared using CHARMM-GUI <sup>[2]</sup>. Configuration of simulation box was adapted from Ramírez-Anguita, Juan Manuel, et al. <sup>[3]</sup>. VMD <sup>[4]</sup> was used to visualize the L-R complex</span>
 </p>
 
 <br><br>
 
-To address these challenges, I developed a toolkit compatible with **NAMD** [5], an open-source suite for performing MD simulations. 
+To address these challenges, I developed a toolkit compatible with **NAMD** <sup>[5]</sup>, an open-source suite for performing MD simulations. 
 
 This repository presents tools to accelerate and support MD simulations with NAMD software. It consists of two components:
 - **`run_namd.sh`**: A script to automate the process of launching NAMD analyses.
