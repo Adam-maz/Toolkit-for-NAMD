@@ -3,9 +3,11 @@
 Molecular Dynamics (MD) is a powerful technique to predict the time-dependent behavior of various molecular systems. Based on Newton's equations of motion, MD simulates atoms' acceleration and movement direction to predict their positions one timestep further (**1 fs** – **2 fs**). Due to this aspect, MD can be highly computationally intensive and can generate a significant number of conformational states for analysis. 
 
 <p align="center">
-  <img src="pimavanserin_5ht2a.gif" width="500"><br>
-  <span style="font-size: 12px; color: gray;">Simulation of Pimavanserin binding to 5-HT2A receptor. Complex was preparad using CHARMM-GUI. Configuration of simulation box was adapted from Juan Manuel Ramírez-Anguita et al. [2] </span>
+  <img src="pimavanserin_5ht2a.gif" width="500"><br><br>
+  <span style="font-size: 12px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor. Complex was prepared using CHARMM-GUI. Configuration of simulation box was adapted from Juan Manuel Ramírez-Anguita et al. [2]</span>
 </p>
+
+<br><br>
 
 To address these challenges, I developed a toolkit compatible with **NAMD**, an open-source suite for performing MD simulations. 
 
