@@ -4,7 +4,7 @@ Molecular Dynamics (MD) is a powerful technique to predict the time-dependent be
 
 <p align="center">
   <img src="pimavanserin_5ht2a.gif" width="500"><br><br>
-  <span style="font-size: 12px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor. Complex was prepared using CHARMM-GUI. Configuration of simulation box was adapted from Juan Manuel Ramírez-Anguita et al. [2]</span>
+  <span style="font-size: 8px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor. Complex was prepared using CHARMM-GUI. Configuration of simulation box was adapted from Juan Manuel Ramírez-Anguita et al. [2]</span>
 </p>
 
 <br><br>
