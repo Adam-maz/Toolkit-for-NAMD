@@ -11,7 +11,7 @@ To address these challenges, I developed a toolkit compatible with **NAMD** <sup
 <br><br>
 
 This repository presents tools to accelerate and support MD simulations with NAMD software. It consists of two components:
-- **`run_namd.sh`**: A script to automate the process of launching NAMD analyses.
+- **`namd_GPU_script.sh`**: A script to automate the process of launching NAMD analyses.
 - **`md_notebook.ipynb`**: A Python notebook to perform clustering and centroid calculations based on trajectory and topology files.
 
 ---
@@ -24,11 +24,11 @@ A Bash script that launches NAMD simulation.
 #### Usage:
 - To run the script on your local computer:
    ```bash
-   bash run_namd.sh
+   bash namd_GPU_script.sh
    ```
 - To execute it using SLURM:
    ```bash
-   sbatch run_namd.sh
+   sbatch namd_GPU_script.sh
    ```
 
 Paste this file into the directory containing the input files for NAMD before running one of abovementioned commands.
