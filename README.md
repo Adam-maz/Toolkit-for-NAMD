@@ -18,7 +18,7 @@ This repository presents tools to accelerate and support MD simulations with NAM
 
 # **Content**
 
-### **a) `run_namd.sh`**
+### **a) `namd_GPU_script.sh`**
 A Bash script that launches NAMD simulation. 
 
 #### Usage:
