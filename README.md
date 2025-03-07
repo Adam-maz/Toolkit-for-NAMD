@@ -11,7 +11,7 @@ To address these challenges, I developed a toolkit compatible with **NAMD** <sup
 <br><br>
 
 This repository presents tools to accelerate and support MD simulations with NAMD software. It consists of two components:
-- **`namd_GPU_script.sh`**: A script to automate the process of launching NAMD analyses (read "instructions_for_namd_GPU_script" before run this script).
+- **`namd_GPU_script.sh`**: A script to automate the process of launching NAMD analyses (read "instructions_for_namd_GPU_script" before running this script).
 - **`md_notebook.ipynb`**: A Python notebook to perform clustering and centroid calculations based on trajectory and topology files.
 
 ---
