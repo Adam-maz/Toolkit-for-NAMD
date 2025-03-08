@@ -5,7 +5,7 @@ To address these challenges, I developed a toolkit compatible with **NAMD** <sup
 
 <p align="center">
   <img src="pimavanserin_5ht2a.gif" width="500"><br><br>
-  <span style="font-size: 4px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor (<strong>PDB:8ZMG</strong>). Complex was prepared using <strong>CHARMM-GUI</strong> <sup>[3]</sup>. Configuration of simulation box was adapted from Ramírez-Anguita, Juan Manuel, et al. <sup>[4]</sup>. VMD <sup>[5]</sup> was used to visualize the L-R complex</span>
+  <span style="font-size: 4px; color: #777;">Simulation of Pimavanserin binding to 5-HT2A receptor (<strong>PDB:8ZMG</strong>). Complex was prepared using <strong>CHARMM-GUI</strong> <sup>[3]</sup>. Configuration of simulation box was adapted from Ramírez-Anguita, Juan Manuel, et al. <sup>[4]</sup>. VMD <sup>[5]</sup> was used to visualize the L-R complex.</span>
 </p>
 
 <br><br>
