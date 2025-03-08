@@ -29,6 +29,6 @@ namd_path/namd3 +p6 +setcpuaffinity +devices 0 step7_production.inp > step7_prod
 - **`+p40`** → Refers to 40 CPUs allocated for the computation.  
   - Check the number of available CPUs on your cluster/local machine to set an appropriate value.  
 - **`+devices 0`** → Refers to the **first GPU**.  
-  - You can assign multiple GPUs to accelerate computation (e.g., `+devices 0,1`).  
+  - You can assign multiple GPUs to accelerate computation.  
 
 ---
